@@ -1,11 +1,17 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
+---
+
+<h3 align="center">🛠️ Tech Stack</h3>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,go,rust,nestjs,py,aws" alt="Tech Stack 1" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=angular,c,cpp,css,linkedin,pytorch,redis,java,js" alt="Tech Stack 2" />
 </div>
 
-<br/>
+---
+
+<h3 align="center">🌐 Socials</h3>
 
 <div align="center">
   <a href="https://linkedin.com" target="_blank">
@@ -22,19 +28,22 @@
   </a>
 </div>
 
-<br/>
+---
+
+<h3 align="center">📊 Language Graph & Streak Stats</h3>
 
 <div align="center">
-  <!-- Live GitHub Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-ss&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="165" alt="Top Languages" />
-  
-  <!-- Live Streak Stats Card -->
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-ss&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="165" alt="Language Graph" />
+  &nbsp;&nbsp;
+  <!-- Streak Stats Card -->
   <img src="https://streak-stats.demolab.com?user=jitesh-ss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="165" alt="GitHub Streak" />
 </div>
 
-<br/>
+---
+
+<h3 align="center">🎮 Contribution Activity</h3>
 
 <div align="center">
-  <!-- Dynamic Contribution Graph Animation -->
   <img src="https://github.com/jitesh-ss/jitesh-ss/blob/output/github-contribution-grid-snake.svg" alt="Contribution Animation" />
 </div>
