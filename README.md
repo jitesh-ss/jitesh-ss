@@ -1,8 +1,11 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+## **💫 About Me**
+
+⚡ I’m currently working on **AI/ML Projects**<br/>
+🧠 I’m currently learning **Machine Learning**
 
 ---
 
-<h3 align="center">🛠️ Tech Stack</h3>
+<h3 align="center"><b>🛠️ Tech Stack</b></h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,go,rust,nestjs,py,aws" alt="Tech Stack 1" /><br/><br/>
@@ -11,7 +14,7 @@
 
 ---
 
-<h3 align="center">🌐 Socials</h3>
+<h3 align="center"><b>🌐 Socials</b></h3>
 
 <div align="center">
   <a href="https://linkedin.com" target="_blank">
@@ -30,20 +33,25 @@
 
 ---
 
-<h3 align="center">📊 Language Graph & Streak Stats</h3>
+<h3 align="center"><b>📊 Language Graph</b></h3>
 
 <div align="center">
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-ss&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="165" alt="Language Graph" />
-  &nbsp;&nbsp;
+</div>
+
+<br/>
+
+<h3 align="center"><b>🔥 Streak Stats</b></h3>
+
+<div align="center">
   <!-- Streak Stats Card -->
   <img src="https://streak-stats.demolab.com?user=jitesh-ss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="165" alt="GitHub Streak" />
 </div>
 
 ---
 
-<h3 align="center">🎮 Contribution Activity</h3>
 
 <div align="center">
-  <img src="https://github.com/jitesh-ss/jitesh-ss/blob/output/github-contribution-grid-snake.svg" alt="Contribution Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=26&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=false&width=550&lines=%E2%9C%A8+Process+is+more+important+than+results.+%E2%9C%A8" alt="Process is more important than results" />
 </div>
