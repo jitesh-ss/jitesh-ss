@@ -1,7 +1,15 @@
+# Hi 👋, I'm Jitesh.M
+
+---
+
+
 ## **💫 About Me**
 
-⚡ I’m currently working on **AI/ML Projects**<br/>
-🧠 I’m currently learning **Machine Learning**
+
+💻 I’m currently working on **AI/ML Projects**<br/>
+🚀 Building scalable **web applications, experimenting with backend services, and contributing to open source**<br/>
+🧠 Currently **learning advanced system architecture, and data structures,maachine language**<br/>
+⚡ Fun fact: **Coffee and clean code are my primary dependencies**<br/>
 
 ---
 
@@ -50,8 +58,6 @@
 </div>
 
 ---
-
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=700&size=26&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&repeat=false&width=550&lines=%E2%9C%A8+Process+is+more+important+than+results.+%E2%9C%A8" alt="Process is more important than results" />
 </div>
