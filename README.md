@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jitesh.M
+# Hi 👋, I'm Jitesh
 
 ---
 
