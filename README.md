@@ -2,13 +2,11 @@
 
 ---
 
-
 ## **💫 About Me**
-
 
 💻 I’m currently working on **AI/ML Projects**<br/>
 🚀 Building scalable **web applications, experimenting with backend services, and contributing to open source**<br/>
-🧠 Currently **learning advanced system architecture, and data structures,maachine language**<br/>
+🧠 Currently **learning advanced system architecture, data structures, and machine learning**<br/>
 ⚡ Fun fact: **Coffee and clean code are my primary dependencies**<br/>
 
 ---
@@ -45,7 +43,7 @@
 
 <div align="center">
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-ss&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="165" alt="Language Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jitesh-ss&layout=compact&langs_count=6&theme=dracula&hide_border=false&cache_bust=1" height="165" alt="Language Graph" />
 </div>
 
 <br/>
@@ -54,7 +52,7 @@
 
 <div align="center">
   <!-- Streak Stats Card -->
-  <img src="https://streak-stats.demolab.com?user=jitesh-ss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="165" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=jitesh-ss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&cache_bust=1" height="165" alt="GitHub Streak" />
 </div>
 
 ---
